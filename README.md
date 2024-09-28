@@ -6,26 +6,27 @@ I'm **WavesFunnyNode**, your friendly neighborhood blockchain node—securing th
 
 - 🤖 **Node Operator**: Guarding the blockchain, one block at a time.
 - 💸 **Staking Services**: Providing accessible WAVES staking solutions on the **Waves Blockchain** and **Unit0 Network**. Whether you're a beginner or experienced, I've got you covered!
-- 💼 **Project Management & Financing**: Engaged in managing blockchain projects, **VC funding**, and decentralized finance, ensuring smooth project execution. [Learn more about our services](https://wavesfunnynode.com/#services).
+- 💼 **Project Management & Financing**: Engaged in managing blockchain projects, **VC funding**, and decentralized finance, ensuring smooth project execution. [Learn more about our services](https://wavesfunnynode.com/#services)
 
 ### 🔧 Services I Offer
 
-- 🔷 **LPoS Staking**: Lease WAVES to me, and I’ll handle the heavy lifting while you earn staking rewards.
-- 🌐 **Unit0 Staking**: Partnering with [Unit0 Network](https://units.network/) for innovative staking services within the DeFi space.
-- ✊ **PowerDAO and WavesDAO**: Engaging with [PowerDAO](https://power.tech/) and [WavesDAO](https://wavesdao.tech/) to boost decentralized governance and finance.
-- 🤝 **VC and Financing**: Offering support for venture capital and financing in blockchain projects, fostering innovative decentralized initiatives.
+- 🔷 **LPoS Staking**: Lease WAVES to me, and I’ll handle the heavy lifting while you earn staking rewards
+- 🌐 **Unit0 Staking**: Partnering with [Unit0 Network](https://units.network/) for innovative staking services within the DeFi space
+- ✊ **PowerDAO and WavesDAO**: Engaging with [PowerDAO](https://power.tech/) and [WavesDAO](https://wavesdao.tech/) to boost decentralized governance and finance
+- 🤝 **VC and Financing**: Offering support for venture capital and financing in blockchain projects, fostering innovative decentralized initiatives
 
 ### 🤝 Collaborations:
 
 I'm working with several innovative projects:
 
-- [<img src="https://puzzleswap.org/favicon.ico" width="20px" /> **Puzzle Network**](https://puzzleswap.org/): A DeFi platform where you can maximize staking and liquidity rewards.
-- [<img src="https://wavesdao.tech/assets/dao-0f9cae39.svg" width="20px" /> **WavesDAO**](https://wavesdao.tech/): Empowering decentralized governance within the Waves ecosystem.
-- [<img src="https://power.tech/images/tild3332-3063-4430-b433-613939613734__favicon-2.ico" width="20px" /> **PowerDAO**](https://power.tech/): A next-gen model for skin-in-the-game governance, enabling transparent decision-making.
-- [<img src="https://units.network/images/favicon.png" width="20px" /> **Unit0 Network**](https://units.network/): Providing innovative Layer 2 staking services for optimized returns.
-- [<img src="https://wavesonchain.com/static/favicons/favicon-32x32.png" width="20px" /> **WavesOnChain**](https://wavesonchain.com/): Offering on-chain metrics and analytics for the Waves blockchain.
+- [<img src="https://puzzleswap.org/favicon.ico" width="22px" /> **Puzzle Network**](https://puzzleswap.org/): Decentralized exchange of a newer generation. Trade tokens in multiple mega pools
+  <!--- [<img src="https://wx.network/img/wx-favicon.ico" width="22px" /> **Wx Network**](https://wx.network/): decentralized trading protocol for self-sovereign crypto management with a suite of investment tools and secure, easy-to-use interface, governed by community -->
+- [<img src="https://wavesdao.tech/assets/dao-0f9cae39.svg" width="22px" /> **WavesDAO**](https://wavesdao.tech/): Empowering decentralized governance within the Waves ecosystem
+- [<img src="https://power.tech/images/tild3332-3063-4430-b433-613939613734__favicon-2.ico" width="20px" /> **PowerDAO**](https://power.tech/): A next-gen model for skin-in-the-game governance, enabling transparent decision-making
+- [<img src="https://units.network/images/favicon.png" width="22px" /> **Unit0 Network**](https://units.network/): Providing innovative Layer 2 staking services for optimized returns
+- [<img src="https://wavesonchain.com/static/favicons/favicon-32x32.png" width="22px" /> **WavesOnChain**](https://wavesonchain.com/): Offering on-chain metrics and analytics for the Waves blockchain
 
-And many other projects contributing to the decentralized ecosystem.
+And many other projects contributing to the decentralized ecosystem
 
 ### 🌊 Why WavesFunnyNode?
 
