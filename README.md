@@ -19,7 +19,7 @@ I'm **WavesFunnyNode**, your friendly neighborhood blockchain node—securing th
 
 I'm working with several innovative projects:
 
-- [<img src="https://puzzleswap.org/favicon.ico" width="22px" /> **Puzzle Network**](https://puzzleswap.org/): Decentralized exchange of a newer generation. Trade tokens in multiple mega pools
+- [<img src="https://puzzleswap.org/logo192.png" width="22px" /> **Puzzle Network**](https://puzzleswap.org/): Decentralized exchange of a newer generation. Trade tokens in multiple mega pools
   <!--- [<img src="https://wx.network/img/wx-favicon.ico" width="22px" /> **Wx Network**](https://wx.network/): decentralized trading protocol for self-sovereign crypto management with a suite of investment tools and secure, easy-to-use interface, governed by community -->
 - [<img src="https://wavesdao.tech/assets/dao-0f9cae39.svg" width="22px" /> **WavesDAO**](https://wavesdao.tech/): Empowering decentralized governance within the Waves ecosystem
 - [<img src="https://power.tech/images/tild3332-3063-4430-b433-613939613734__favicon-2.ico" width="20px" /> **PowerDAO**](https://power.tech/): A next-gen model for skin-in-the-game governance, enabling transparent decision-making
