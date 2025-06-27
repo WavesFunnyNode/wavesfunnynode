@@ -24,7 +24,7 @@ I'm working with several innovative projects:
 - [<img src="https://wavesdao.tech/assets/dao-0f9cae39.svg" width="22px" /> **WavesDAO**](https://wavesdao.tech/): Empowering decentralized governance within the Waves ecosystem
 - [<img src="https://power.tech/images/tild3332-3063-4430-b433-613939613734__favicon-2.ico" width="20px" /> **PowerDAO**](https://power.tech/): A next-gen model for skin-in-the-game governance, enabling transparent decision-making
 - [<img src="https://cdn.prod.website-files.com/678680e4580db97738b84e60/679691e3ef2c9fdb4cfada1a_favicon%201x.png" width="22px" /> **Unit0 Network**](https://units.network/): Providing innovative Layer 2 staking services for optimized returns
-- [<img src="https://wavesonchain.com/static/favicons/favicon-32x32.png" width="22px" /> **WavesOnChain**](https://wavesonchain.com/): Offering on-chain metrics and analytics for the Waves blockchain
+- [<img src="https://wavesonchain.com/favicon.ico" width="22px" /> **WavesOnChain**](https://wavesonchain.com/): Offering on-chain metrics and analytics for the Waves blockchain
 
 And many other projects contributing to the decentralized ecosystem
 
