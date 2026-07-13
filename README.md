@@ -21,7 +21,7 @@ I'm working with several innovative projects:
 
 <!--- [<img src="https://puzzleswap.org/logo192.png" width="22px" /> **Puzzle Network**](https://puzzleswap.org/): Decentralized exchange of a newer generation. Trade tokens in multiple mega pools -->
   <!--- [<img src="https://wx.network/img/wx-favicon.ico" width="22px" /> **Wx Network**](https://wx.network/): decentralized trading protocol for self-sovereign crypto management with a suite of investment tools and secure, easy-to-use interface, governed by community -->
-- [<img src="https://power.tech/images/tild3332-3063-4430-b433-613939613734__favicon-2.ico" width="20px" /> **PowerDAO**](https://power.tech/): A next-gen model for skin-in-the-game governance, enabling transparent decision-making
+- [<img src="https://app.power.tech/favicon.ico" width="20px" /> **PowerDAO**](https://power.tech/): A next-gen model for skin-in-the-game governance, enabling transparent decision-making
 - [<img src="https://cdn.prod.website-files.com/678680e4580db97738b84e60/679691e3ef2c9fdb4cfada1a_favicon%201x.png" width="22px" /> **Unit0 Network**](https://units.network/): Providing innovative Layer 2 staking services for optimized returns
 - [<img src="https://wavesonchain.com/favicon.ico" width="22px" /> **WavesOnChain**](https://wavesonchain.com/): Offering on-chain metrics and analytics for the Waves blockchain
 
